@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+Welcome to my website :)! Learn about me and my projects.
+
 Click here to learn [About Me](https://k-zeng.github.io/ABOUT-ME)!
 
 You can use the [editor on GitHub](https://github.com/k-zeng/k-zeng.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
