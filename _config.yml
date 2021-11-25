@@ -2,3 +2,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: Kevin Zeng
 description: Welcome to my website :)!
+github:
+  about_me_url: https://k-zeng.github.io/ABOUT-ME
