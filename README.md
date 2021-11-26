@@ -1,6 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to my website!
 
-Welcome to my website :)! Learn about me and my projects.
+Learn about me, my projects, or contact :)
+
+
+
+
+
+
+
+
+
 
 Click here to learn [About Me](https://k-zeng.github.io/ABOUT-ME)!
 
