@@ -1,7 +1,7 @@
 #theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
 title: Kevin Zeng
-description: Ph.D. Candidate, Deep Reinforcement Learning, Deep Reduced-Order Modeling
+description: Ph.D. Candidate: Deep Reinforcement Learning, Deep Reduced-Order Systems Modeling
 github:
   about_me_url: https://k-zeng.github.io/ABOUT-ME
   my_projects_url: https://k-zeng.github.io/MY-PROJECTS
