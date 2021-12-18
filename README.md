@@ -2,4 +2,4 @@
 
 Learn about me, my projects, or find my contact :)
 
-This site is still under construction!
+This site is still under construction but feel free to look around!
