@@ -7,3 +7,5 @@ Here are my personal projects I've been working on (for fun :)). To see my publi
 
 ### Modeling Wake Flows with FEniCS
 ![WakeFlow](/_documents/WakeFlow.png)
+
+<img src="/_documents/WakeFlow.png" alt="hi" class="inline"/>
