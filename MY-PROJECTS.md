@@ -6,6 +6,6 @@ Here are my personal projects I've been working on (for fun :)). To see my publi
 ### Learning smarter latent spaces for complex dynamics:
 
 ### Modeling Wake Flows with FEniCS
-![WakeFlow](/_documents/WakeFlow.png)
+![WakeFlow](k-zeng.github.io/_documents/WakeFlow.png )
 
-<img src="/_documents/WakeFlow.png" alt="hi" class="inline"/>
+<img src="k-zeng.github.io/_documents/WakeFlow.png" alt="hi2" class="inline"/>
